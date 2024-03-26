@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "express": "4.16.4",
+        "express": "4.19.2",
         "express-fileupload": "1.2.0"
     },
     "scripts": {
